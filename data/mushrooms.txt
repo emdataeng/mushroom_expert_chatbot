@@ -1,0 +1,24 @@
+mushroom_copper_spike.jpg:
+    A picture of two copper spike mushrooms growing in the forest. They are brown and
+    shiny. They are considered mediocre edible mushrooms.
+
+mushroom_deadly_webcap.jpg:
+    A picture of five deadly webcap mushrooms growing in the forest. They are orange
+    colors with brown snake-like patterns on the stipe. They are absolutely deadly as
+    they contain the toxin orellanine, which causes acute kidney failure. There is no
+    known antidote.
+
+mushroom_false_chanterelle.jpg:
+    A picture of three false chanterelle mushroom growing in the forest. They are yellow
+    and have gills. They are considered inedible as they can cause stomach upset in some
+    people. They are often mistaken for the edible chanterelle, but the chanterelles
+    have ridges instead of gills, are firmer, and have a distinctive smell.
+
+mushroom_parasol_topview.jpg
+    A picture of a false parasol mushroom growing on grass. The picture is taken from
+    above, so the stipe is not visible. The mushroom is white with brown scales on the
+    cap. This mushroom is edible but has variants that can cause stomach upset, like
+    the false parasol. The false parasol has a bare, white stipe, while the parasol
+    features a distinct pattern on the stipe. This image cannot be classified accurately
+    as the stipe is not visible.
+
