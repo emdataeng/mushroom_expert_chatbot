@@ -76,5 +76,83 @@
         },
         "time_taken": "59.43531847000122 seconds",
         "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:30:54": {
+        "image_file_name": "text_only",
+        "user_prompt": "do mushrooms smell?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "Yes, mushrooms can have a distinct smell. The smell of mushrooms is often used as a guide to their identification. Some mushrooms have a pleasant aroma, while others have a strong, pungent odor. The smell can vary depending on the species and the conditions under which the mushroom was growing.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:33:58": {
+        "image_file_name": "uploaded_image",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Cuphophyllus\"],\n    \"genus\": [\"Cuphophyllus\"],\n    \"family\": [\"Hymenogastraceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"orange\",\n    \"edible\": true,\n    \"notes\": \"This species is commonly found in forest floors and is edible.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:56:42": {
+        "image_file_name": "uploaded_image: mushroom_copper_spike.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Chlorophyllum\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"orange\",\n    \"edible\": true,\n    \"notes\": \"This species is commonly found in coniferous forests and is edible when cooked.\"\n}",
+        "expert_reply": "The mushrooms in the image are likely of the genus Chlorophyllum, belonging to the family Agaricaceae. They have a bright orange color and are commonly found in coniferous forests. These mushrooms are edible when cooked.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:59:31": {
+        "image_file_name": "text_only",
+        "user_prompt": "interesting, how tall can the get?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "The height of the Chlorophyllum species can vary, but it typically grows to a height of about 2-3 inches (5-7.5 cm) when mature. The cap diameter can range from 1-2 inches (2.5-5 cm).",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "10:02:10": {
+        "image_file_name": "text_only",
+        "user_prompt": "cool,  can they talk ? I've heard they can do that sometimes",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "I don't know. Mushrooms are fungi and do not have the ability to talk. They communicate through chemical signals and physical contact, but not through speech.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "10:07:10": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "What's this ?",
+        "expert_reply_json": null,
+        "expert_reply": "This is a group of mushrooms belonging to the genus **Chlorophyllum**. They are commonly found in coniferous forests and are edible when cooked. The species is known for its distinctive orange color and cap shape.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
     }
 }
