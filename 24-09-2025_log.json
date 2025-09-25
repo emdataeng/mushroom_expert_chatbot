@@ -1,0 +1,110 @@
+{
+    "15-08-09": {
+        "image_file_name": "mushroom_copper_spike.jpg",
+        "user_prompt": "Tell me both, the scientific and common names of the mushroom or mushrooms in this picture. Tell me the family to which they belong. Give me their physical description. Where are they most commonly found. Clarify if they are edible and if not, explain why and what are the sympthoms or side effects in a person, in this last case explain if there is a known treatment or antidote. Mention if there is any similarity with other specties. Lastly, you may mention any other documented fact about the mushroom.",
+        "expert_reply": [
+            "The mushrooms in the picture are **Chlorophyllum rhacodes**, commonly known as the **Orange Peel Fungus** or **Orange Peel Chanterelle**. They belong to the family **Tricholomataceae**.\n\n**Physical Description:**\n- **Cap:** The cap is convex and later becomes flattened, with a diameter of about 2-5 cm. It is initially smooth but becomes rough and wrinkled with age.\n- **Stipe:** The stipe is short and thick, measuring about 1-2 cm in diameter. It is yellowish-brown and often has a ring at the base.\n- **Hymenium:** The hymenium is bright orange, and the gills are free and decurrent (attached to the stipe).\n\n**Habitat and Distribution:**\n- These mushrooms are commonly found in coniferous forests, particularly in Europe and North America.\n- They prefer damp, shaded areas and are often found under conifer trees.\n\n**Edibility:**\n- **Edibility:** These mushrooms are considered safe to eat and are edible.\n- **Symptoms and Side Effects:** There are no known symptoms or side effects associated with eating these mushrooms. They are safe for consumption.\n\n**Treatment or Antidote:**\n- There is no known treatment or antidote for consuming these mushrooms.\n\n**Similarity with Other Species:**\n- These mushrooms are similar to other species in the genus **Chlorophyllum**, which includes the **Orange Peel Chanterelle** (C. rhacodes) and the **Orange Peel Fungus** (C. rhacodes).\n\n**Additional Fact:**\n- These mushrooms are often used in culinary applications, particularly in European cuisine, where they are known for their distinctive flavor and are often used in soups and stews."
+        ],
+        "generation_parameters": {
+            "temperature": 0.3,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "4.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "15-23-35": {
+        "image_file_name": "mushroom_copper_spike.jpg",
+        "user_prompt": "Tell me both, the scientific and common names of the mushroom or mushrooms in this picture. Tell me the family to which they belong. Give me their physical description. Where are they most commonly found. Clarify if they are edible and if not, explain why and what are the sympthoms or side effects in a person, in this last case explain if there is a known treatment or antidote. Mention if there is any similarity with other specties. Lastly, you may mention any other documented fact about the mushroom.",
+        "expert_reply": [
+            "The mushrooms in the picture are **Chlorophyllum rhacodes**, commonly known as the **Orange Peel Fungus** or **Orange Peel Chanterelle**. They belong to the family **Tricholomataceae**.\n\n**Physical Description:**\n- **Cap:** The cap is convex and later becomes flattened, with a diameter of about 2-5 cm. It is orange to orange-brown in color.\n- **Stipe:** The stipe is short and thick, with a diameter of about 1-2 cm. It is also orange-brown in color.\n- **Hymenium:** The hymenium is bright orange to orange-brown, with a gills that are close together and slightly curved.\n\n**Habitat:**\nThey are commonly found in coniferous forests, often growing on the ground or on the trunks of trees.\n\n**Edibility:**\nThese mushrooms are **edible**. They are considered safe to eat and are often used in culinary dishes.\n\n**Symptoms and Side Effects:**\nThere are no known symptoms or side effects associated with eating these mushrooms. They are safe for consumption.\n\n**Treatment or Antidote:**\nThere is no known treatment or antidote for consuming these mushrooms. They are safe to eat.\n\n**Similarity with Other Species:**\nChlorophyllum rhacodes is similar to other species in the same genus, such as Chlorophyllum molybdites, which is also known as the **Molybdenum Fungus**. Both species have a similar appearance and are found in similar habitats.\n\n**Additional Fact:**\nChlorophyllum rhacodes is known for its distinctive orange peel-like appearance, which is due to the presence of a chemical called chlorophyll. This chemical gives the mushrooms their characteristic color and is also found in other fungi, such as the **Chlorophyllum molybdites**."
+        ],
+        "generation_parameters": {
+            "temperature": 0.3,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "4.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "17-10-31": {
+        "image_file_name": "mushroom_copper_spike.jpg",
+        "user_prompt": "Tell me both, the scientific and common names of the mushroom or mushrooms in this picture. Tell me the family to which they belong. Give me their physical description. Where are they most commonly found. Clarify if they are edible and if not, explain why and what are the sympthoms or side effects in a person, in this last case explain if there is a known treatment or antidote. Mention if there is any similarity with other specties. Lastly, you may mention any other documented fact about the mushroom.",
+        "expert_reply": [
+            "```json\n{\n    \"common_name\": [\"Chlorophyllum rhacodes\", \"Chlorophyllum brunneum\"],\n    \"genus\": [\"Chlorophyllum\"],\n    \"family\": [\"Agaricaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": [\"orange\"],\n    \"edible\": false,\n    \"notes\": \"This mushroom is known for its toxic properties and should not be consumed.\"\n}\n```\n\n**Description:** The mushrooms in the picture belong to the genus Chlorophyllum, specifically Chlorophyllum rhacodes or Chlorophyllum brunneum. They are part of the family Agaricaceae. These mushrooms have a bright orange cap with a gills (hymenium) underneath and a stem (stipe). They are commonly found in forested areas, particularly in coniferous forests. \n\n**Edibility:** These mushrooms are not edible. They are toxic and can cause symptoms such as nausea, vomiting, diarrhea, and abdominal pain. There is no known treatment or antidote for these symptoms. \n\n**Similarity:** These mushrooms are similar to other species in the Chlorophyllum genus, which are known for their toxic properties. They are often confused with other edible mushrooms like the Chanterelle (Cantharellus cibarius) or the Honey Fungus (Armillaria mellea), but they are not edible and should be avoided.\n\n**Additional Fact:** Chlorophyllum mushrooms are known for their distinctive appearance and toxic properties, making them a common subject of study in mycology."
+        ],
+        "generation_parameters": {
+            "temperature": 0.3,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "4.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "17-52-50": {
+        "image_file_name": "mushroom_copper_spike.jpg",
+        "user_prompt": "Tell me both, the scientific and common names of the mushroom or mushrooms in this picture. Tell me the family to which they belong. Give me their physical description. Where are they most commonly found. Clarify if they are edible and if not, explain why and what are the sympthoms or side effects in a person, in this last case explain if there is a known treatment or antidote. Mention if there is any similarity with other specties. Lastly, you may mention any other documented fact about the mushroom.",
+        "expert_reply": [
+            "```json\n{\n    \"common_name\": [\"Chanterelle\", \"Citrine Chanterelle\"],\n    \"genus\": [\"Cantharellus\"],\n    \"family\": [\"Cantharellaceae\"],\n    \"confidence\": 0.95,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": [\"orange\"],\n    \"edible\": true,\n    \"notes\": \"The Chanterelle is a popular edible mushroom known for its distinct orange color and pleasant flavor.\"\n}\n```\n\n**Physical Description:**\nThe mushrooms in the picture belong to the genus Cantharellus, which is part of the family Cantharellaceae. They have a bright orange cap with a slightly convex shape that flattens with age. The gills are bright orange and attached directly to the stipe. The stipe is short and sturdy, with a diameter that is slightly larger than the cap. The hymenium, the layer of gills, is visible and contributes to the mushroom's characteristic color.\n\n**Common Location:**\nChanterelles are commonly found in forests, particularly in deciduous and coniferous woods. They are often found on the forest floor, under trees, and in areas with rich soil and a temperate climate.\n\n**Edibility:**\nYes, the mushrooms in the picture are edible. They are considered a delicacy and are often enjoyed raw or cooked. The flavor is described as sweet and slightly nutty.\n\n**Poisonous Similarities:**\nWhile the Chanterelle is safe to eat, it is important to note that some other mushrooms in the Cantharellus genus, such as the Clitocybe, can be poisonous. The Clitocybe genus includes mushrooms that can cause gastrointestinal upset, headaches, and other symptoms if ingested. However, the mushrooms in the picture are not Clitocybe and are safe to eat.\n\n**Treatment or Antidote:**\nThere is no known treatment or antidote for eating poisonous mushrooms. If a person ingests a poisonous mushroom, it is crucial to seek medical attention immediately.\n\n**Other Documented Facts:**\nThe Chanterelle is one of the most widely cultivated mushrooms in the world and is often used in cooking. It is also a popular choice for mushroom hunting and foraging. The genus Cantharellus includes many other species with similar characteristics, such as the Hygrophorus"
+        ],
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "5.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "20-07-31": {
+        "image_file_name": "uploaded_image",
+        "user_prompt": "what's this?",
+        "expert_reply": [
+            "```json\n{\n    \"common_name\": [\"Chlorophyllum\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"yellow\",\n    \"edible\": true,\n    \"notes\": \"This mushroom is commonly found in forested areas and is edible when properly identified.\"\n}\n```\nThis mushroom is a member of the genus Chlorophyllum, belonging to the family Agaricaceae. It has a yellowish cap and stipe, with a gills (hymenium) that are visible. The confidence in identification is high, and it is considered edible. This species is often found in forested areas."
+        ],
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "21-33-21": {
+        "image_file_name": "uploaded_image",
+        "user_prompt": "",
+        "expert_reply": [
+            "```json\n{\n    \"common_name\": [\"Chlorophyllum\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"yellow\",\n    \"edible\": true,\n    \"notes\": \"This species is known for its distinctive cap and stem coloration.\"\n}\n```\nThe mushrooms in the image are identified as members of the genus Chlorophyllum, belonging to the family Agaricaceae. They have a yellowish cap and stem, and are considered edible. The high confidence level suggests a strong likelihood of these being Chlorophyllum molybdites, commonly known as the \"Bleeding Cup.\""
+        ],
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "22:57:50": {
+        "image_file_name": "text_only",
+        "user_prompt": "tell me a fun fact about mushrooms",
+        "expert_reply": "Mushrooms are the only fungi that produce spores on their bodies, which is a fascinating adaptation that allows them to reproduce.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "23:02:53": {
+        "image_file_name": "uploaded_image",
+        "user_prompt": "",
+        "expert_reply": "```json\n{\n    \"common_name\": [\"Chlorophyllum rhacodes\", \"Chlorophyllum brunneum\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brownish-orange\",\n    \"edible\": true,\n    \"notes\": \"This mushroom is edible and has a pleasant flavor. It is commonly found in coniferous forests.\"\n}\n```",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    }
+}

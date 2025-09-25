@@ -1,0 +1,31 @@
+Correct:
+
+params:
+temp = 0.9
+topK = 0
+topP = 0.5
+
+Expert reply: ['The mushrooms in the picture are likely to be members of the genus *Chroogomphus*, specifically *Chroogomphus vinicolor* or *Chroogomphus inaequalis*. These are commonly known as the *Chroogomphus mushrooms*.\n\n### Physical Description:\n- **Cap**: The caps are typically convex to flattened, with a diameter ranging from 3 to 8 cm. They are usually yellowish to orange-brown in color.\n- **Gills**: The gills are adnate to decurrent, meaning they are attached to the stem and extend down the stem.\n- **Stem**: The stems are solid, cylindrical, and have a diameter of about 1 to 2 cm. They are also yellowish to orange-brown.\n- **Spore Print**: The spore print is typically brown.\n\n### Edibility:\n- These mushrooms are generally considered to be edible. They are commonly found in forests and']
+
+
+
+Wrong:
+params:
+temp = 0.9
+topK = 0
+topP = 0.5
+
+Expert reply: ['**Scientific Name:** Cantharellus cibarius (commonly known as the chanterelle)\n\n**Common Name:** Chanterelle\n\n**Family:** Cantharellaceae\n\n**Physical Description:**\n- **Cap:** The cap is convex when young, becoming broadly convex to flattened as it matures. It is usually golden yellow to orange-yellow, sometimes with a reddish tinge, and can have a pinkish hue.\n- **Gills:** The gills are adnate to decurrent, meaning they are attached to the stem but not separated from it. They are white to yellowish.\n- **Stem:** The stem is thick and sturdy, often with a ring at the top. It is also yellowish, sometimes with a pinkish tinge.\n- **Spore Print:** The spore print is yellow.\n\n**Habitat:** Chanterelles are typically found in coniferous forests, often under pines, spruces, and firs. They are also found in deciduous forests and can be found on the ground or in leaf litter.\n\n**Edibility:** Chanterelles are edible and considered a delicacy in many cuisines.\n\n**Symptoms and Side Effects:** There are no known symptoms or side effects associated with eating chanterelles. However, it is important to ensure that the mushrooms are safe to eat by identifying them correctly.\n\n**Treatment or Antidote:** There is no known treatment or antidote for consuming chanterelles.\n\n**Similarity with Other Species:** Chanterelles are often confused with false chanterelles (Cantharellus cibarius var. flavidus), which can be distinguished by their white or yellowish spore print. Other edible mushrooms in the Cantharellus genus include C. aurantiacus (Orange Chanterelle) and C. calyculus (Calyx Chanterelle).\n\n**Additional Fact:** Chanterelles are one of the most widely cultivated mushrooms in the world, with cultivation practices that have been developed to ensure the safety and quality of the product.']
+
+
+temp = 0.9
+topK = 0
+topP = 0.7
+
+Expert reply: ["The mushrooms in the picture are Clitocybe (Chlorophyllum) species. The scientific name is Clitocybe clavipes or Clitocybe inornata, and the common name is Golden Chanterelle or Golden Oyster.\n\n**Family**: Agaricaceae\n\n**Physical Description**:\n- **Cap**: Golden to orange-brown in color, often with a bluish tinge, becoming darker with age.\n- **Gills**: Often yellow or orange in color.\n- **Stipe**: Typically smooth and cylindrical, often with a small ring (annulus) at the top.\n- **Spore Print**: Light brown.\n\n**Common Habitat**: Found in forests, particularly in deciduous woodlands, where they often grow in clusters on the ground.\n\n**Edibility**: Edible, but caution should be exercised. Some individuals may experience allergic reactions or other adverse effects, so it's best to avoid consumption unless you are certain of the species and your health condition allows.\n\n**Symptoms and Treatment**: While the mushrooms are generally safe, allergic reactions can occur in some individuals. Symptoms include skin rashes, itching, and swelling. There is no known antidote for allergic reactions. If you experience any adverse effects, seek medical attention immediately.\n\n**Similarities**: Clitocybe species are closely related to the genus *Cantharellus*, which includes the well-known Cantharellus cibarius (chanterelle). Both can be found in similar habitats and have similar coloration and gill colors.\n\n**Additional Facts**: Clitocybe species are part of the Agaricaceae family, which includes many edible and some non-edible species. They are known for their rich, earthy flavor and are often enjoyed by mushroom enthusiasts."]
+
+
+temp = 1.0
+topK = 0
+topP = 0.7
+Expert reply: ['The mushrooms in the picture are **Clavariadelphus truncatus** (commonly known as the Short Stem Chanterelle).\n\n### Scientific and Common Names\n- **Scientific Name:** Clavariadelphus truncatus\n- **Common Name:** Short Stem Chanterelle\n\n### Family\n- **Family:** Clavariadelphaceae\n\n### Physical Description\n- **Gill Color:** The gills are golden brown.\n- **Gill Spacing:** The gills are widely spaced.\n- **Stem:** The stem is short, slender, and yellowish.\n- **Cap:** The cap is convex and becomes flat with age, and it is yellowish with a slightly velvety surface.\n\n### Habitat\n- **Habitat:** They are commonly found in coniferous forests, particularly under pine trees.\n\n### Edibility and Toxicity\n- **Edibility:** This mushroom is considered safe to eat and is edible.\n- **Symptoms/Effects:** There are no known symptoms or side effects of consuming this mushroom.\n- **Treatment/ antidote:** There is no known treatment or antidote for consuming this mushroom.\n\n### Similarities\n- **Similar Species:** The Short Stem Chanterelle can be similar to other species in the same genus, such as *Clavariadelphus vitellinus*, which also has a short stem and golden gills but a slightly different cap coloration.\n\n### Additional Facts\n- **Folklore and Cultural Significance:** In some cultures, certain mushrooms are used for medicinal purposes, although this is not documented for the Short Stem Chanterelle.']
