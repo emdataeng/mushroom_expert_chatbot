@@ -1,0 +1,392 @@
+{
+    "08:19:46": {
+        "image_file_name": "text_only",
+        "user_prompt": "really? what is a mushroom?",
+        "expert_reply_json": "No Image",
+        "expert_reply": "A mushroom is a fruiting body of a fungus, typically characterized by a cap, gills, or pores on the underside, and a stem. Mushrooms are part of the kingdom Fungi and are classified into various genera and families based on their morphological and ecological characteristics.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "08:23:43": {
+        "image_file_name": "uploaded_image",
+        "user_prompt": "",
+        "expert_reply_json": "No Image",
+        "expert_reply": "The mushrooms in the image are Cuphophyllus, commonly known as the cup mushroom. They belong to the family Hygrophoraceae. The mushrooms have a bright orange color, with a cup-shaped cap and a stem. They are typically found in coniferous forests and are considered edible.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "08:38:23": {
+        "image_file_name": "uploaded_image",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Chlorophyllum\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"orange\",\n    \"edible\": true,\n    \"notes\": \"This species is known for its distinctive orange color and gills that are attached to the stipe.\"\n}",
+        "expert_reply": "The mushrooms in the image are Chlorophyllum, commonly known as the \"Orange Cap.\" They belong to the family Agaricaceae. These mushrooms are edible and are characterized by their bright orange color and gills attached to the stipe.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "08:41:45": {
+        "image_file_name": "text_only",
+        "user_prompt": "interesting.. and could I eat those ?",
+        "expert_reply_json": null,
+        "expert_reply": "Yes, the mushrooms in the image are edible. They belong to the genus Chlorophyllum, which is known for its distinctive orange color and gills attached to the stipe. Enjoy your meal!",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "08:48:41": {
+        "image_file_name": "text_only",
+        "user_prompt": "Could find some of those in Sweden? what about Spain?",
+        "expert_reply_json": null,
+        "expert_reply": "I don't know. The species I identified is Chlorophyllum, which is known for its orange color and gills attached to the stipe. It's common in Europe, including Sweden and Spain, but I don't have specific information on its distribution in those countries. For precise information, consulting local mycological guides or databases would be advisable.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:01:48": {
+        "image_file_name": "text_only",
+        "user_prompt": "how tall can they be?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "I don't know. The height of mushrooms can vary widely depending on the species and the growing conditions. Some species can grow quite large, while others are much smaller. For a more accurate answer, please provide more specific details about the mushrooms in question.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "59.43531847000122 seconds",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:30:54": {
+        "image_file_name": "text_only",
+        "user_prompt": "do mushrooms smell?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "Yes, mushrooms can have a distinct smell. The smell of mushrooms is often used as a guide to their identification. Some mushrooms have a pleasant aroma, while others have a strong, pungent odor. The smell can vary depending on the species and the conditions under which the mushroom was growing.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:33:58": {
+        "image_file_name": "uploaded_image",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Cuphophyllus\"],\n    \"genus\": [\"Cuphophyllus\"],\n    \"family\": [\"Hymenogastraceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"orange\",\n    \"edible\": true,\n    \"notes\": \"This species is commonly found in forest floors and is edible.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:56:42": {
+        "image_file_name": "uploaded_image: mushroom_copper_spike.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Chlorophyllum\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"orange\",\n    \"edible\": true,\n    \"notes\": \"This species is commonly found in coniferous forests and is edible when cooked.\"\n}",
+        "expert_reply": "The mushrooms in the image are likely of the genus Chlorophyllum, belonging to the family Agaricaceae. They have a bright orange color and are commonly found in coniferous forests. These mushrooms are edible when cooked.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "09:59:31": {
+        "image_file_name": "text_only",
+        "user_prompt": "interesting, how tall can the get?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "The height of the Chlorophyllum species can vary, but it typically grows to a height of about 2-3 inches (5-7.5 cm) when mature. The cap diameter can range from 1-2 inches (2.5-5 cm).",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "10:02:10": {
+        "image_file_name": "text_only",
+        "user_prompt": "cool,  can they talk ? I've heard they can do that sometimes",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "I don't know. Mushrooms are fungi and do not have the ability to talk. They communicate through chemical signals and physical contact, but not through speech.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "10:07:10": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "What's this ?",
+        "expert_reply_json": null,
+        "expert_reply": "This is a group of mushrooms belonging to the genus **Chlorophyllum**. They are commonly found in coniferous forests and are edible when cooked. The species is known for its distinctive orange color and cap shape.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "11:40:45": {
+        "image_file_name": "text_only",
+        "user_prompt": "can mushrooms grow in humans ?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "Mushrooms are fungi and do not grow inside humans. They are external organisms that form mycelia underground and produce fruiting bodies above ground. While some mushrooms can be consumed by humans, they do not grow within the human body.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "39.93709993362427 seconds",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "11:46:30": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Cup Fungi\", \"Lactarius\"],\n    \"genus\": [\"Lactarius\"],\n    \"family\": [\"Russulaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"These mushrooms are known for their distinctive cup-shaped caps and are often found in forest floors.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "11:53:39": {
+        "image_file_name": "uploaded_image: mushroom_copper_spike.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Cup Fungi\", \"Lactarius\"],\n    \"genus\": [\"Lactarius\"],\n    \"family\": [\"Russulaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"These mushrooms are known for their distinctive cup-shaped caps and are often found in forest floors.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "12:01:46": {
+        "image_file_name": "uploaded_image: mushroom_copper_spike.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Cuphophyllus\"],\n    \"genus\": [\"Cuphophyllus\"],\n    \"family\": [\"Hygrophoraceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"orange\",\n    \"edible\": true,\n    \"notes\": \"This species is commonly found in forests and is edible.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "12:12:38": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Mushroom\"],\n    \"genus\": [\"Lactarius\"],\n    \"family\": [\"Russulaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"Lactarius mushrooms are known for their distinctive milk when cut. This species is not edible.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "12:57:49": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Lactarius\"],\n    \"genus\": [\"Lactarius\"],\n    \"family\": [\"Russulaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": true,\n    \"notes\": \"Lactarius mushrooms are known for their milk that turns white when exposed to air.\"\n}",
+        "expert_reply": "These mushrooms are likely Lactarius mushrooms, belonging to the genus Lactarius and family Russulaceae. They are brown in color and edible. The milk that these mushrooms produce when exposed to air turns white, which is a characteristic feature of the genus Lactarius.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "15:11:06": {
+        "image_file_name": "text_only",
+        "user_prompt": "tell me a fun fact about mushrooms",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "Mushrooms have a fascinating ability to absorb and store water, which is why they can survive in environments with little to no moisture. This water storage capability is crucial for their survival, especially in arid climates.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "15:15:06": {
+        "image_file_name": "uploaded_image: mushroom_copper_spike.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Chlorophyllum\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"yellow\",\n    \"edible\": true,\n    \"notes\": \"This species is known for its distinctive yellow color and is commonly found in forested areas.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "15:34:02": {
+        "image_file_name": "uploaded_image: mushroom_copper_spike.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Chlorophyllum rhacodes\", \"Chlorophyllum brunneum\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brownish yellow\",\n    \"edible\": true,\n    \"notes\": \"Edible, but avoid if unsure.\"\n}",
+        "expert_reply": "These mushrooms are commonly known as the Brown Garlic Mushroom or the Brown Cap Chanterelle. They belong to the genus Chlorophyllum and the family Agaricaceae. These mushrooms are edible and are often found in forests and woodlands.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "15:39:03": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Mushroom\"],\n    \"genus\": [\"Lactarius\"],\n    \"family\": [\"Russulaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"Lactarius mushrooms are known for their characteristic latex when broken, which can be used to identify them.\"\n}",
+        "expert_reply": "These mushrooms are likely Lactarius mushrooms, identifiable by their brown color and the latex that can be seen when the caps are broken. They are not considered edible.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "15:42:52": {
+        "image_file_name": "text_only",
+        "user_prompt": "how do you know they are edible or not?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "I don't know.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "15:54:03": {
+        "image_file_name": "text_only",
+        "user_prompt": "How's the weather today ?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "I don't know. My knowledge is limited to mycological information and does not include weather updates.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "16:14:54": {
+        "image_file_name": "uploaded_image: mushroom_false_chanterelle.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Yellow Cap\", \"Citrinellus\"],\n    \"genus\": [\"Citrinellus\"],\n    \"family\": [\"Hygrophoraceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"yellow\",\n    \"edible\": true,\n    \"notes\": \"This mushroom is edible and has a bright yellow cap and stem.\"\n}",
+        "expert_reply": "The mushrooms in the image are Citrinellus, commonly known as Yellow Cap mushrooms. They belong to the family Hygrophoraceae. These mushrooms are edible and have a bright yellow cap and stem. The high confidence level indicates a strong likelihood of this identification.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "16:53:01": {
+        "image_file_name": "text_only",
+        "user_prompt": "what's common between mushrooms and plants ?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "Mushrooms and plants share several fundamental characteristics. Both are multicellular organisms, which means they have cells that are organized into tissues and organs. Mushrooms, like plants, are autotrophs, meaning they produce their own food through photosynthesis. They also have a cell wall made of chitin, which is different from the cellulose found in plants. Additionally, both can reproduce sexually and asexually, and they have a life cycle that includes stages such as spore production, germination, and growth. However, mushrooms are fungi, not plants, and they lack chlorophyll, which is why they cannot perform photosynthesis.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "16:55:32": {
+        "image_file_name": "text_only",
+        "user_prompt": "can the mushrooms communicate to each other? how ?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "Mushrooms do not communicate in the same way that animals do. They do not have nervous systems or complex sensory organs to transmit signals. However, they do communicate through chemical signals, known as pheromones, which are released into the environment. These signals can attract other mushrooms of the same species to a suitable location for reproduction. This form of communication is crucial for the survival and dispersal of fungal species.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "16:59:21": {
+        "image_file_name": "text_only",
+        "user_prompt": "attract? you mean they can move? please explain",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "I don't know.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "53.15654444694519 seconds",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "17:03:32": {
+        "image_file_name": "uploaded_image: mushroom_parasol_topview.jpg",
+        "user_prompt": "what type of mushroom is this?",
+        "expert_reply_json": "{\n    \"common_name\": [\"Mushroom\"],\n    \"genus\": [\"Agaricus\"],\n    \"family\": [\"Agaricaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": true,\n    \"notes\": \"This mushroom belongs to the Agaricus genus, which includes many edible species.\"\n}",
+        "expert_reply": "This mushroom is likely an Agaricus species, which includes many edible mushrooms. The visible cap, hymenium, and stipe are characteristic features of this genus.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "17:10:07": {
+        "image_file_name": "text_only",
+        "user_prompt": "could you tell from that picture that is a parasol mushroom ?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "I don't know. The image provided does not clearly show the characteristic features of a parasol mushroom. The mushroom in the picture appears to be a species of Agaricus, which includes many edible species. For a definitive identification, a more detailed view of the cap, hymenium, and stipe would be needed.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    }
+}

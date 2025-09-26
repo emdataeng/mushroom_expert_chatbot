@@ -1,0 +1,275 @@
+{
+    "18:57:37": {
+        "image_file_name": "text_only",
+        "user_prompt": "tell me something funny about mushrooms",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "I don't know.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "14.077728986740112 seconds",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "18:58:14": {
+        "image_file_name": "text_only",
+        "user_prompt": "no jokes about mushroom?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "Understood. Please provide an image of a mushroom for identification.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "18.680195331573486 seconds",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "19:03:06": {
+        "image_file_name": "uploaded_image: mushroom_false_chanterelle.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Citrinellus\"],\n    \"genus\": [\"Citrinellus\"],\n    \"family\": [\"Hygrophoraceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"yellow\",\n    \"edible\": true,\n    \"notes\": \"Citrinellus is a genus of fungi known for its bright yellow color and edible nature.\"\n}",
+        "expert_reply": "The mushrooms in the image are Citrinellus, a genus of fungi in the family Hygrophoraceae. They are known for their bright yellow color and are edible. The image shows the cap, hymenium, and stipe of the mushrooms.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "19:20:42": {
+        "image_file_name": "text_only",
+        "user_prompt": "what are its common names?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "The common name for the species in the image is \"Citrinellus.\"",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "22.863609790802002 seconds",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "19:23:37": {
+        "image_file_name": "uploaded_image: nya_svampboken_p226.jpg",
+        "user_prompt": "Are you able to transcribe this text about mushrooms?",
+        "expert_reply_json": null,
+        "expert_reply": "I don't know.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "8.124295949935913 seconds",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "19:37:06": {
+        "image_file_name": "uploaded_image: mushroom_parasol_topview.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Mushroom\"],\n    \"genus\": [\"Agaricus\"],\n    \"family\": [\"Agaricaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\"],\n    \"color\": \"brown\",\n    \"edible\": true,\n    \"notes\": \"This mushroom is commonly known as a 'Mushroom' and belongs to the Agaricaceae family.\"\n}",
+        "expert_reply": "The image shows a mushroom with a brown cap, which is part of the Agaricaceae family. It is commonly known as a 'Mushroom' and is edible.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "19:41:08": {
+        "image_file_name": "uploaded_image: nya_svampboken_p226.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n  \"common_name\": [\"Toppig giftspindling\", \"Cortinarius rubellus\"],\n  \"genus\": \"Cortinarius\",\n  \"family\": \"Cortinariaceae\",\n  \"confidence\": 0.9,\n  \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n  \"color\": \"brown\",\n  \"edible\": false,\n  \"notes\": \"The cap is matt, dark brown, with a reddish-brown to yellowish-brown color. The spore print is brown, and the stem has a yellowish-brown band.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "19:49:58": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Lactarius\"],\n    \"genus\": [\"Lactarius\"],\n    \"family\": [\"Russulaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"Lactarius mushrooms are known for their milk when broken, but this particular species is not considered edible.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "2.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "19:54:03": {
+        "image_file_name": "uploaded_image: mushroom_copper_spike.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Chlorophyllum rhacodes\", \"Gill of Death\"],\n    \"genus\": \"Chlorophyllum\",\n    \"family\": \"Agaricaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"yellowish\",\n    \"edible\": false,\n    \"notes\": \"This mushroom is highly toxic and should not be consumed.\"\n}",
+        "expert_reply": "The image shows two mushrooms from the genus Chlorophyllum, commonly known as the \"Gill of Death.\" These mushrooms have a yellowish cap and a yellowish stipe. They are highly toxic and should not be consumed.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "19:57:19": {
+        "image_file_name": "uploaded_image: nya_svampboken_p226.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n  \"common_name\": [\"Toppig giftspindling\", \"Cortinarius rubellus\"],\n  \"genus\": \"Cortinarius\",\n  \"family\": \"Cortinariaceae\",\n  \"confidence\": 0.9,\n  \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n  \"color\": \"brown\",\n  \"edible\": false,\n  \"notes\": \"The cap is matt, dark brown to reddish brown. The hymenium is orange-brown. The stipe is smooth, with a dark brown band at the base.\"\n}",
+        "expert_reply": "",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "20:02:46": {
+        "image_file_name": "uploaded_image: nya_svampboken_p226.jpg",
+        "user_prompt": "what do you see here?",
+        "expert_reply_json": null,
+        "expert_reply": "The image is a scan of a book page in Swedish, discussing the Cortinarius rubellus (syn. C. speciosissimus) mushroom. It provides information on the spindling (spore release) of this mushroom, which is a significant part of the mycological community in Sweden. The text mentions that the spindling is often a sign of a large fungus in the forest, and it can be found in various colors, including orange and brown. The page also discusses the symptoms and treatment of the Cortinarius rubellus, noting that it contains the toxin orellanin, which has a specific neurotoxic effect. The symptoms include intense tingling, numbness, and a feeling of being stuck in the neck. Treatment involves immediate dialysis and, in severe cases, liver transplantation. The page also mentions the key features of the Cortinarius rubellus, such as the cap being matte, the spore print being reddish-brown, and the stem having a smooth, brown surface with a ring.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "4.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "20:14:07": {
+        "image_file_name": "uploaded_image: nya_svampboken_p226.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Toppig giftspindling\", \"Cortinarius rubellus\"],\n    \"genus\": \"Cortinarius\",\n    \"family\": \"Cortinariaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"The cap is matt, with a reddish-brown to brownish color. The spore print is brownish. The stipe is brown with a regular band.\"\n}",
+        "expert_reply": "The image is a scan of a book page in Swedish, detailing information about the Cortinarius rubellus, also known as Cortinarius speciosissimus. This mushroom is described as a highly toxic species, with the cap being matt, reddish-brown to brownish in color, and the stipe being brown with a regular band. The spore print is brownish. The page also mentions that the mushroom contains the toxin orellanin, which has a specific neurotoxic effect. Symptoms of poisoning include intense thirst, increased heart rate, and a dry mouth. Treatment involves immediate dialysis and, in severe cases, liver transplantation.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "5.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "20:36:50": {
+        "image_file_name": "uploaded_image: mushroom_false_chanterelle.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Citrinellus\"],\n    \"genus\": [\"Citrinellus\"],\n    \"family\": [\"Hygrophoraceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"yellow\",\n    \"edible\": true,\n    \"notes\": \"Citrinellus is a genus of mushrooms known for their bright yellow caps and gills.\"\n}",
+        "expert_reply": "The image shows mushrooms from the genus Citrinellus, which belong to the family Hygrophoraceae. These mushrooms are characterized by their bright yellow caps and gills. They are generally considered edible. Citrinellus mushrooms are commonly found in moist environments and are known for their distinctive coloration.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "20:43:35": {
+        "image_file_name": "uploaded_image: mushroom_parasol_topview.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Mushroom\"],\n    \"genus\": [\"Agaricus\"],\n    \"family\": [\"Agaricaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": true,\n    \"notes\": \"This mushroom is a common edible species.\"\n}",
+        "expert_reply": "The mushroom in the image is an Agaricus species, commonly known as a mushroom. It belongs to the family Agaricaceae. The cap is brown with a rough texture and a central\u51f8\u8d77\u7269, which is characteristic of this genus. The hymenium, which is the layer of spore-producing cells on the underside of the cap, is also visible. The stipe, or stem, is not visible in this image. This mushroom is generally considered edible.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "4.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "20:55:42": {
+        "image_file_name": "uploaded_image: mushroom_false_chanterelle.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Yellow Cap Mushroom\", \"Cantharellus cibarius\"],\n    \"genus\": \"Cantharellus\",\n    \"family\": \"Cantharellaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"stipe\"],\n    \"color\": \"yellow\",\n    \"edible\": true,\n    \"notes\": \"This mushroom is commonly found in forests and is considered edible.\"\n}",
+        "expert_reply": "The image shows a group of yellow-cap mushrooms, specifically Cantharellus cibarius, which are commonly known as the common chanterelle. These mushrooms are easily recognizable by their bright yellow caps and stems. They are part of the Cantharellaceae family and are widely considered edible. These mushrooms are typically found in forests and are known for their pleasant flavor and aroma.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "21:15:52": {
+        "image_file_name": "uploaded_image: mushroom_false_chanterelle.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Yellow Cap\", \"Yellow Cap Fungus\"],\n    \"genus\": \"Lactarius\",\n    \"family\": \"Russulaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"stipe\"],\n    \"color\": \"yellow\",\n    \"edible\": true,\n    \"notes\": \"This mushroom is edible and has a pleasant flavor. It is commonly found in forests and can be identified by its bright yellow cap and stem.\"\n}",
+        "expert_reply": "The image shows a group of yellow cap mushrooms, which are part of the genus Lactarius. These mushrooms belong to the family Russulaceae and are known for their bright yellow color. They are edible and are commonly found in forests. The mushrooms in the image have a pleasant flavor and are safe to consume.",
+        "generation_parameters": {
+            "temperature": 0.1,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "21:32:45": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Cortinarius\"],\n    \"genus\": [\"Cortinarius\"],\n    \"family\": [\"Cortinariaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"Cortinarius mushrooms are often found in forest floors and are known for their distinctive reddish-brown caps and stipes.\"\n}",
+        "expert_reply": "These mushrooms belong to the genus Cortinarius, which is part of the family Cortinariaceae. They are typically found in forest floors and are known for their reddish-brown caps and stipes. These mushrooms are generally considered inedible.",
+        "generation_parameters": {
+            "temperature": 0.1,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "21:51:39": {
+        "image_file_name": "uploaded_image: mushroom_deadly_webcap.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Cortinarius\"],\n    \"genus\": [\"Cortinarius\"],\n    \"family\": [\"Cortinariaceae\"],\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"Cortinarius mushrooms are often found in forest floors and are known for their distinctive reddish-brown caps and stipes.\"\n}",
+        "expert_reply": "These mushrooms belong to the genus Cortinarius, which is part of the family Cortinariaceae. They are typically found in forest floors and are known for their reddish-brown caps and stipes. These mushrooms are generally considered inedible.",
+        "generation_parameters": {
+            "temperature": 0.1,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "22:03:53": {
+        "image_file_name": "uploaded_image: nya_svampboken_p226.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Toppig giftspindling\", \"Cortinarius rubellus\"],\n    \"genus\": \"Cortinarius\",\n    \"family\": \"Cortinariaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"brown\",\n    \"edible\": false,\n    \"notes\": \"The cap is matt, often with a reddish-brown to brownish color. The spore print is orange-brown.\"\n}",
+        "expert_reply": "The image is a scan of a mushroom book page in Swedish, discussing the Cortinarius rubellus, also known as Cortinarius speciosissimus. This species is known for its distinctive reddish-brown to brownish cap and orange-brown spore print. It is considered toxic and contains the mycotoxin orellamine, which can cause severe symptoms including intense thirst, dry mouth, and difficulty swallowing. Treatment involves immediate dialysis and, in severe cases, liver transplantation. The spore print is orange-brown, and the cap is matt, often with a reddish-brown to brownish color.",
+        "generation_parameters": {
+            "temperature": 0.1,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "5.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "22:38:59": {
+        "image_file_name": "text_only",
+        "user_prompt": "what can you tell me about The Amanita Muscaria ?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "The Amanita Muscaria, commonly known as the Fly Agaric, is a species of agaric fungus. It belongs to the genus Amanita and the family Amanitaceae. The cap of this mushroom is typically bright red with white spots, and it has a white ring around the stem. The spore print is white. This mushroom is known for its psychoactive properties, as it contains muscimol, which can cause hallucinations and other effects when ingested. It is considered highly toxic and should not be consumed. The Amanita Muscaria is native to Europe and parts of Asia, but it has been introduced to North America and other parts of the world. It is important to note that the Amanita Muscaria is illegal in many countries due to its toxicity and hallucinogenic properties.",
+        "generation_parameters": {
+            "temperature": 0.1,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "3.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    "22:44:17": {
+        "image_file_name": "text_only",
+        "user_prompt": "can The Amanita Muscaria ? be consumed if prepared correctly?",
+        "expert_reply_json": "No image uploaded, so no explanation provided.",
+        "expert_reply": "The Amanita Muscaria is highly toxic and should never be consumed, even if prepared correctly. It contains muscimol, a psychoactive compound that can cause severe intoxication and potentially fatal reactions. Always consult a mycologist or a professional before attempting to identify or consume any wild mushrooms.",
+        "generation_parameters": {
+            "temperature": 0.1,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "1.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    }
+}

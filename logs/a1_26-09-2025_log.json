@@ -1,0 +1,15 @@
+{
+    "12:25:21": {
+        "image_file_name": "uploaded_image: mushroom_copper_spike.jpg",
+        "user_prompt": "",
+        "expert_reply_json": "{\n    \"common_name\": [\"Cuphophyllus\"],\n    \"genus\": \"Cuphophyllus\",\n    \"family\": \"Lyophyllaceae\",\n    \"confidence\": 0.9,\n    \"visible\": [\"cap\", \"hymenium\", \"stipe\"],\n    \"color\": \"orange\",\n    \"edible\": true,\n    \"notes\": \"Cuphophyllus mushrooms are typically found in coniferous forests and are edible when properly prepared.\"\n}",
+        "expert_reply": "These mushrooms belong to the genus Cuphophyllus, which is part of the Lyophyllaceae family. They are commonly found in coniferous forests and are considered edible when prepared correctly. The mushrooms in the image have a bright orange color and are characterized by their cup-shaped caps and gills on the underside of the cap.",
+        "generation_parameters": {
+            "temperature": 0.7,
+            "topK": 0,
+            "topP": 0.5
+        },
+        "time_taken": "4.0 minutes",
+        "model_name": "Qwen/Qwen2.5-VL-3B-Instruct"
+    }
+}
